@@ -8,4 +8,4 @@ Delve into resources, articles, and guides curated to facilitate informed decisi
 
 Having developed this project a year ago, it reflects not only my technical skills in web development but also my commitment to creating inclusive and informative platforms. Join me in navigating the world of international education through this dynamic website!
 
-LinkedIn Post Link: 
+LinkedIn Post Link: https://www.linkedin.com/feed/update/urn:li:activity:7163489388734189569/
